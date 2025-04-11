@@ -13,9 +13,9 @@ Welcome to the Hackathon! We're excited to have you on board and can't wait to s
 - **Phone:** 8951569043  
 
 ### Team Members:
-- <member_1> 
-- <member_2> 
-- <member_3> 
+- Lokeshvar Ethiraj 
+- Gnyan Mallaiah 
+- Kriti Kannan 
 
 ## Problem Statement
 
